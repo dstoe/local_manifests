@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<remote name="sonyaosp" fetch="https://github.com/SonyAosp/" />
+
+<project path="vendor/qcom/firmware" name="vendor_qcom_firmware" remote="sonyaosp" revision="android-7.0" />
+
+</manifest>
